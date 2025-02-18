@@ -3,4 +3,4 @@
 #### ***바로 사용하는 초간단 Github(깃허브)***
 https://www.youtube.com/playlist?list=PL-QFFQeuiKKsucSnfUbNW0BD2Aq8lk3xN
 
-잇 사람 꺼 보고 따라함. 
+이 사람 꺼 보고 따라함. 
